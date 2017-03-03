@@ -1,0 +1,55 @@
+Crime,Gender,Age,sumtotal
+Threat,Female,0 - 5 years,7061
+Threat,Female,6 - 11 years,11724
+Threat,Female,12 - 17 years,13272
+Threat,Female,18 - 28 years,29450
+Threat,Female,29 - 60 years,63062
+Threat,Female,61- 100 years,9783
+Threat,Male,0 - 5 years,7544
+Threat,Male,6 - 11 years,12648
+Threat,Male,12 - 17 years,14200
+Threat,Male,18 - 28 years,25276
+Threat,Male,29 - 60 years,52996
+Threat,Male,61- 100 years,11752
+Threat,LGBTI,0 - 5,6
+Threat,LGBTI,6 - 11,6
+Threat,LGBTI,12 - 17,20
+Threat,LGBTI,18 - 28,82
+Threat,LGBTI,29 - 60,135
+Threat,LGBTI,61- 100,11
+Homicide,Female,0 - 5,2342
+Homicide,Female,6 - 11,5747
+Homicide,Female,12 - 17,14015
+Homicide,Female,18 - 28,49565
+Homicide,Female,29 - 60,227207
+Homicide,Female,61- 100,70722
+Homicide,Male,0 - 5,2134
+Homicide,Male,6 - 11,6367
+Homicide,Male,12 - 17,14849
+Homicide,Male,18 - 28,52581
+Homicide,Male,29 - 60,205113
+Homicide,Male,61- 100,52797
+Homicide,LGBTI,0 - 5,1
+Homicide,LGBTI,6 - 11,0
+Homicide,LGBTI,12 - 17,4
+Homicide,LGBTI,18 - 28,15
+Homicide,LGBTI,29 - 60,45
+Homicide,LGBTI,61- 100,13
+Kidnapping,Female,0 - 5,38
+Kidnapping,Female,6 - 11,85
+Kidnapping,Female,12 - 17,181
+Kidnapping,Female,18 - 28,853
+Kidnapping,Female,29 - 60,4218
+Kidnapping,Female,61- 100,839
+Kidnapping,Male,0 - 5,58
+Kidnapping,Male,6 - 11,130
+Kidnapping,Male,12 - 17,282
+Kidnapping,Male,18 - 28,1330
+Kidnapping,Male,29 - 60,13770
+Kidnapping,Male,61- 100,3667
+Kidnapping,LGBTI,0 - 5,0
+Kidnapping,LGBTI,6 - 11,0
+Kidnapping,LGBTI,12 - 17,0
+Kidnapping,LGBTI,18 - 28,1
+Kidnapping,LGBTI,29 - 60,8
+Kidnapping,LGBTI,61- 100,1
