@@ -1,0 +1,19 @@
+Crime,Gender,Age,sumtotal
+Homicide,Female,0 - 5 years,2342
+Homicide,Female,6 - 11 years,5747
+Homicide,Female,12 - 17 years,14015
+Homicide,Female,18 - 28 years,49565
+Homicide,Female,29 - 60 years,227207
+Homicide,Female,61- 100 years,70722
+Homicide,Male,0 - 5 years,2134
+Homicide,Male,6 - 11 years,6367
+Homicide,Male,12 - 17 years,14849
+Homicide,Male,18 - 28 years,52581
+Homicide,Male,29 - 60 years,205113
+Homicide,Male,61- 100 years,52797
+Homicide,LGBTI,0 - 5 years,1
+Homicide,LGBTI,6 - 11 years,0
+Homicide,LGBTI,12 - 17 years,4
+Homicide,LGBTI,18 - 28 years,15
+Homicide,LGBTI,29 - 60 years,45
+Homicide,LGBTI,61- 100 years,13

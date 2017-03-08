@@ -1,0 +1,19 @@
+Crime,Gender,Age,sumtotal
+Kidnapping,Female,0 - 5 years,38
+Kidnapping,Female,6 - 11 years,85
+Kidnapping,Female,12 - 17 years,181
+Kidnapping,Female,18 - 28 years,853
+Kidnapping,Female,29 - 60 years,4218
+Kidnapping,Female,61- 100 years,839
+Kidnapping,Male,0 - 5 years,58
+Kidnapping,Male,6 - 11 years,130
+Kidnapping,Male,12 - 17 years,282
+Kidnapping,Male,18 - 28 years,1330
+Kidnapping,Male,29 - 60 years,13770
+Kidnapping,Male,61- 100 years,3667
+Kidnapping,LGBTI,0 - 5 years,0
+Kidnapping,LGBTI,6 - 11 years,0
+Kidnapping,LGBTI,12 - 17 years,0
+Kidnapping,LGBTI,18 - 28 years,1
+Kidnapping,LGBTI,29 - 60 years,8
+Kidnapping,LGBTI,61- 100 years,1

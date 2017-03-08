@@ -1,0 +1,19 @@
+Crime,Gender,Age,sumtotal
+Threat,Female,0 - 5 years,7061
+Threat,Female,6 - 11 years,11724
+Threat,Female,12 - 17 years,13272
+Threat,Female,18 - 28 years,29450
+Threat,Female,29 - 60 years,63062
+Threat,Female,61- 100 years,9783
+Threat,Male,0 - 5 years,7544
+Threat,Male,6 - 11 years,12648
+Threat,Male,12 - 17 years,14200
+Threat,Male,18 - 28 years,25276
+Threat,Male,29 - 60 years,52996
+Threat,Male,61- 100 years,11752
+Threat,LGBTI,0 - 5 years,6
+Threat,LGBTI,6 - 11 years,6
+Threat,LGBTI,12 - 17 years,20
+Threat,LGBTI,18 - 28 years,82
+Threat,LGBTI,29 - 60 years,135
+Threat,LGBTI,61- 100 years,11
